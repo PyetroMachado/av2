@@ -10,4 +10,6 @@ body{
     color: var(--branco-principa);
     
 }
-
+.principal{
+    background-image: url(img/Background.png);
+}
