@@ -26,8 +26,13 @@ body{
     padding: 1em;
     color: var(--branco-principa);
     display: block;
+    text-decoration: none;
+    margin-bottom: 1em;
 }
 .botao-secundario{
     background: transparent;
     border: 2px solid var(--botao-azul);
+}
+.container-img{
+    margin: 1em 0 2em 0;
 }
