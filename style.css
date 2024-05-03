@@ -27,3 +27,7 @@ body{
     color: var(--branco-principa);
     display: block;
 }
+.botao-secundario{
+    background: transparent;
+    border: 2px solid var(--botao-azul);
+}
